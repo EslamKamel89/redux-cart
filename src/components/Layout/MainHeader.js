@@ -1,5 +1,7 @@
-import CartButton from '../Cart/CartButton';
-import classes from './MainHeader.module.css';
+/* eslint-disable no-unused-vars */
+/* eslint-disable react/react-in-jsx-scope */
+import CartButton from "../Cart/CartButton";
+import classes from "./MainHeader.module.css";
 
 const MainHeader = (props) => {
   return (

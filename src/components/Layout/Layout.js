@@ -1,5 +1,7 @@
-import { Fragment } from 'react';
-import MainHeader from './MainHeader';
+/* eslint-disable react/prop-types */
+/* eslint-disable react/react-in-jsx-scope */
+import { Fragment } from "react";
+import MainHeader from "./MainHeader";
 
 const Layout = (props) => {
   return (

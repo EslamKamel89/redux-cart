@@ -1,3 +1,4 @@
+/* eslint-disable react/react-in-jsx-scope */
 import { useSelector } from "react-redux";
 import Cart from "./components/Cart/Cart";
 import Layout from "./components/Layout/Layout";
